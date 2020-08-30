@@ -2,7 +2,7 @@
 Tracks inventory items by location for the Mycroft voice-activated AI
 
 ## About
-Allows the user location, remove items from inventory, or move them, and so on.
+Allows the user to specify object and location, remove items from inventory, or move them, and so on.
 
 ## Examples
 * "Read inventory"
