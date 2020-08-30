@@ -5,8 +5,12 @@ Tracks inventory items by location
 Allows the user location, remove items from inventory, or move them, and so on.
 
 ## Examples
-* "Look at inventory"
+* "Read inventory"
 * "Open inventory"
+* "Add dictionary to desk in inventory"
+* "Remove dictioanry from inventory"
+* "Where is dictionary in inventory"
+* "Move dictionary to table in inventory"
 
 ## Credits
 renayo
