@@ -46,7 +46,7 @@ class Inventory(MycroftSkill):
     def handle_inventorywhatis(self, message):
         self.loc = message.data.get('loc');
         locationlist=[];
-        s = ','
+        s = ', '
         with open(inventoryfile) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             for row in csv_reader:
