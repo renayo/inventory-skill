@@ -10,7 +10,7 @@ Allows the user to specify object and location, remove items from inventory, or 
 * "Add dictionary to desk in inventory"
 * "Where is dictionary in inventory"
 * "What is on desk in inventory"
-* "Move dictionary to backpack in inventory"
+* "Move dictionary to storage in inventory"
 * "Remove dictionary from inventory"
 
 ## Credits
