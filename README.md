@@ -5,8 +5,8 @@ Tracks inventory items by location for the Mycroft voice-activated AI
 Allows the user to specify object and location, remove items from inventory, or move them, and so on.
 
 ## Examples
-* "Read inventory"
 * "Open inventory"
+* "Read inventory"
 * "Add dictionary to desk in inventory"
 * "Where is dictionary in inventory"
 * "What is on desk in inventory"
